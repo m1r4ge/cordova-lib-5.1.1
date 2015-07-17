@@ -30,7 +30,7 @@
     "npm": "1.3.4",
     "npmconf": "0.1.16",
     "osenv": "0.1.0",
-    "plist": "1.1.0",
+    "plist": "http://github.com/m1r4ge/plist.js/tarball/patched",
     "properties-parser": "0.2.3",
     "q": "1.0.1",
     "rc": "0.5.2",
